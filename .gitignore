@@ -42,4 +42,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# My files
 android/app/google-services.json
+lib/shared
