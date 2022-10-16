@@ -8,7 +8,7 @@ Technologies used to develop app :
 - Firebase
 
 ## Login / Register Screen
-![login](./chat_app_sc/loginAndRegister.PNG)
+![login](./chat_app_sc/loginAndRegister.png)
 
 ## Profile Details
 ![profileDetails](./chat_app_sc/profile_details.PNG)
@@ -17,7 +17,7 @@ Technologies used to develop app :
 ![createGroup](./chat_app_sc/baf_create_group.PNG)
 
 ## Chat Screen and Group Details
-![ch_sc_and_group_details](./chat_app_sc/chat_details_sc.PNG)
+![ch_sc_and_group_details](./chat_app_sc/chat_details_sc.png)
 
 ## Searching groups
 ![search](./chat_app_sc/search.PNG)
